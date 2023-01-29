@@ -2,7 +2,7 @@
 👩‍💻 I'm in my third year of Computer Science at the University of Windsor<br>
 🔭 I’m working on many little projects to improve and broaden my programming skills!<br>
 💬 Ask me about my experience with FIRST Robotics! I have 8+ years of experience as a student, mentor and volunteer!<br>
-💻 Want to learn more about me? Check out my [personal website](www.abbiedewhirst.github.io)!<br>
+💻 Want to learn more about me? Check out my [personal website](https://abbiedewhirst.github.io/)!<br>
 📫 Want to get in contact? Reach out through [E-mail](mailto:dewhirstabbie@gmail.com), [Discord](Abbit#8926) or [Linkedin](https://www.linkedin.com/in/abbie-d-5050b7157/)
 
 # Some Languages I've Used!
