@@ -1,5 +1,5 @@
 # ✨Hi, I'm Abbie!
-👩‍💻 I'm a graduate in Computer Science at the University of Windsor<br>
+👩‍💻 I have a Bachelor's in Computer Science from the University of Windsor<br>
 🔭 I’m working on many little projects to improve and broaden my programming skills!<br>
 💬 Ask me about my experience with FIRST Robotics! I have 9+ years of experience as a student, mentor and volunteer!<br>
 💻 Want to learn more about me? Check out my [personal website](https://abbiedewhirst.github.io/)!<br>
